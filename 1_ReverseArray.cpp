@@ -6,13 +6,11 @@
 * Sample Output: [3,1,6,5]
 * Complexity: O(n/2) == O(n)
 * Learning: Passing Array as ref.
-* Tested in: 
-
+*
 =========================================================
 * Author: Ritwik Das - (dasritwik16@gmail.com)
 * Github: @devritwik
 =========================================================
-
 */
 
 #include <bits/stdc++.h>
