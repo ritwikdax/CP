@@ -4,7 +4,7 @@
 * Function: pair<int, int> findMinMax(int*, int);
 * Sample Input: [5,6,1,3]
 * Sample Output: 1,6
-* Complexity: O(n/2) == O(n)
+* Complexity: O(n)
 * Learning: Passing Array as ref.
 *
 =========================================================
