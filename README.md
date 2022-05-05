@@ -1,11 +1,9 @@
 
 # DSA 450 Common Problem
 
-This repository contain working code of 450 DSA problems in C++ 
+This repository contain working code of 450 DSA problems in C++
 
-Array	Reverse the array
-
-| No | Topic | DSA Questio | Working Code | Tested in |
+| No | Topic | DSA Question | Working Code | Tested in |
 | ----------- | ----------- | -------------------------- | ----------- | ----------- |
 |1|**Array**|Reverse the array||||
 |2|**Array**|Find the maximum and minimum element in an array||||
