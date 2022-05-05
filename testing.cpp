@@ -1,15 +1,16 @@
 /*
-* Q. Problem: Reverse the array
+* Problem: Reverse an array
+* Topic: Array
 * Function: void reverseArray(int*, int)
 * Sample Input: [5,6,1,3]
-* Sample Input: [3,1,6,5]
-* Functionality: reverseArray(int*, int)
+* Sample Output: [3,1,6,5]
 * Complexity: O(n/2) == O(n)
 * Learning: Passing Array as ref.
 * Tested in: 
 
 =========================================================
 * Author: Ritwik Das - (dasritwik16@gmail.com)
+* Github: @devritwik
 =========================================================
 
 */
