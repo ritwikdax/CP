@@ -7,7 +7,7 @@ This repository contain working code of 450 DSA problems in C++
 | ----------- | ----------- | -------------------------- | ----------- | ----------- |
 |1|**Array**|✅ Reverse the array||||
 |2|**Array**|✅ Find the maximum and minimum element in an array||||
-|3|**Array**|Find the "Kth" max and min element of an array ||||
+|3|**Array**|✅ Find the "Kth" max and min element of an unsorted array ||||
 |4|**Array**|Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo||||
 |5|**Array**|Move all the negative elements to one side of the array ||||
 |6|**Array**|Find the Union and Intersection of the two sorted arrays.||||
